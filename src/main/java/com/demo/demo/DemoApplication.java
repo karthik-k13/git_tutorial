@@ -8,7 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-        System.out.println("From feature branch");
+        System.out.println("from master branch");
+
 	}
 
 }
